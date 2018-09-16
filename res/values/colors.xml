@@ -56,7 +56,7 @@
     <color name="floating_action_button_icon_color">@color/contacts_accent_color</color>
 
     <!-- Horizontal separator line should be 12% dark in the light theme. -->
-    <color name="divider_line_color_light">#e0e0e0</color>
+    <color name="divider_line_color_light">#00ffffff</color>
 
     <!-- Color of the text on an ExpandingEntryCard button -->
     <color name="expanding_entry_card_button_text_color">@android:color/black</color>
@@ -112,7 +112,7 @@
     <color name="people_app_theme_color">#363636</color>
 
     <!-- Color of the theme of the Dialer app -->
-    <color name="dialtacts_theme_color">#2a56c6</color>
+    <color name="dialtacts_theme_color">@color/accent</color>
 
     <!-- Color of image view placeholder. -->
     <color name="image_placeholder">#DDDDDD</color>
@@ -209,7 +209,7 @@
     <color name="search_shortcut_icon_color">@color/dialtacts_theme_color</color>
 
     <!-- Color of the background of the contact detail and editor pages -->
-    <color name="background_primary">#f9f9f9</color>
+    <color name="background_primary">#ffffff</color>
     <color name="contact_all_list_background_color">#FFFFFF</color>
 
     <!-- Text color used for character counter when the max limit has been exceeded -->
@@ -219,7 +219,7 @@
     <color name="call_subject_history_icon">#000000</color>
 
     <!-- Divider line on the call subject dialog. -->
-    <color name="call_subject_divider">#d8d8d8</color>
+    <color name="call_subject_divider">#00ffffff</color>
 
     <!-- Text color for the SEND & CALL button on the call subject dialog. -->
     <color name="call_subject_button">#00c853</color>
@@ -235,7 +235,7 @@
 
     <!-- Color of account/custom filters -->
     <color name="account_filter_text_color">@color/actionbar_text_color_black</color>
-    <color name="custom_filter_divider">#dbdbdb</color>
+    <color name="custom_filter_divider">#00ffffff</color>
 
     <color name="material_star_pink">@color/accent</color>
 
@@ -246,10 +246,10 @@
     <color name="device_account_tint_color">#7f7f7f</color>
 
     <!-- Background color for sync-off alert. -->
-    <color name="alert_background">#e0e0e0</color>
+    <color name="alert_background">#ffffff</color>
 
     <!-- Divider color in navigation drawer -->
-    <color name="drawer_divider_color">#E5E5E5</color>
+    <color name="drawer_divider_color">#ff000000</color>
 
     <!-- Background color for the navigation drawer -->
     <color name="navigation_drawer_background_color">#FFFFFF</color>
