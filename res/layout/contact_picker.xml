@@ -21,7 +21,7 @@
     android:layout_height="match_parent" >
 
     <include
-        layout="@layout/people_activity_toolbar"
+        layout="@layout/activity_toolbar"
         android:id="@+id/toolbar_parent" />
 
 </LinearLayout>
