@@ -112,7 +112,7 @@
     <color name="people_app_theme_color">#363636</color>
 
     <!-- Color of the theme of the Dialer app -->
-    <color name="dialtacts_theme_color">@color/accent</color>
+    <color name="dialtacts_theme_color">#757575</color>
 
     <!-- Color of image view placeholder. -->
     <color name="image_placeholder">#DDDDDD</color>
